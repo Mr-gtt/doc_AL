@@ -57,5 +57,5 @@ Markdown 中文文档 https://markdown-zh.readthedocs.io/en/latest/
 
 如果发现文档中的错误，或者信息过时，或者有一些idea，任何想要改进的，有想增加的内容，有什么有趣的东西想要与大家共享。
 
-联系：980760365gt@gmail.com
+联系：980760365gt@gmail.com  1140748915@qq.com
 
