@@ -30,7 +30,7 @@ wiki: https://en.wikipedia.org/wiki/Markdown
 
 如果你也选择下载该软件，可以在下图中找到帮助文档
 
-![](F:\全栈萌新#1.0\doc\images\mdreference.png)
+[![BlDOfK.png](https://s1.ax1x.com/2020/10/27/BlDOfK.png)](https://imgchr.com/i/BlDOfK)
 
 
 
